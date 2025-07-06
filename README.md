@@ -8,7 +8,7 @@ In this game, players try to guess a secret number. The twist is that the guess 
 
 You can try the game live at: **[fhegame.vercel.app](https://fhegame.vercel.app/)**
 
-![Game Screenshot](./demo.jpeg)
+![Game Screenshot](./demo.png)
 
 ## ✨ Key Features
 
