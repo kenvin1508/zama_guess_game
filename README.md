@@ -4,6 +4,12 @@ This project is a decentralized "Guess the Number" game that showcases the power
 
 In this game, players try to guess a secret number. The twist is that the guess is encrypted on the client-side before being sent to the blockchain. The smart contract can then determine if the guess is correct *without ever decrypting it*, ensuring complete privacy for the player's input.
 
+## 🎮 Live Demo
+
+You can try the game live at: **[fhegame.vercel.app](https://fhegame.vercel.app/)**
+
+![Game Screenshot](./demo.jpeg)
+
 ## ✨ Key Features
 
 -   **Privacy-Preserving Gameplay**: Your guess is never revealed to the server, the blockchain, or anyone else.
